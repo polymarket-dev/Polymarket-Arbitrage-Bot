@@ -1,0 +1,6 @@
+config.json
+*.log
+history.toml
+.env
+node_modules
+dist
